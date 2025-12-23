@@ -1,2 +1,2 @@
 file
-this is a file
+This course contain git & git hub
